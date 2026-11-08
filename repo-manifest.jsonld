@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/loki-k8s-operator/commit/b26f896394b0ed6ad965e0f80a54e99a875429a8",
       "git:hexsha": "b26f896394b0ed6ad965e0f80a54e99a875429a8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev266"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev266",
+      "repolex:parsedAt": "2026-11-08T15:26:57.416347+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/loki-k8s-operator/commit/c387447f92b52504ee8e7531d24da19e757c2ebd",
