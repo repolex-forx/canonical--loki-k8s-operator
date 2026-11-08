@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "loki-k8s-operator",
+  "versions": [
+    {
+      "commit": "b26f896394b0ed6ad965e0f80a54e99a875429a8",
+      "tag": "rev266",
+      "parsed_at": "2026-11-08T15:26:57.418109+00:00"
+    }
+  ]
+}
